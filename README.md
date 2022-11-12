@@ -15,3 +15,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав Полінкін Ярослав
